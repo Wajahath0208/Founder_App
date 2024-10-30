@@ -21,6 +21,8 @@
             android:layout_height="200dp"
             android:src="@drawable/elon_musk_png_photo_image"
             android:background="@drawable/borders"
+            android:backgroundTintMode="src_in"
+            android:backgroundTint="@color/green"
             app:layout_constraintTop_toTopOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintBottom_toBottomOf="parent"
