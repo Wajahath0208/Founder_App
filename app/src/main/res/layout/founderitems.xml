@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardElevation="10dp"
+    app:cardCornerRadius="15dp"
+    android:layout_marginVertical="10dp"
+    android:layout_marginHorizontal="10dp"
+
+    >
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/green"
+        >
+        <ImageView
+            android:id="@+id/founder_img"
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            android:src="@drawable/elon_musk_png_photo_image"
+            android:background="@drawable/borders"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            />
+        <TextView
+            android:id="@+id/founder_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/elon_musk"
+            android:textStyle="bold"
+            android:textSize="18sp"
+            android:textColor="@color/black"
+            android:layout_marginVertical="5dp"
+            app:layout_constraintTop_toBottomOf="@+id/founder_img"
+            app:layout_constraintStart_toStartOf="@+id/founder_img"
+            app:layout_constraintEnd_toEndOf="@+id/founder_img"
+            app:layout_constraintBottom_toBottomOf="parent"/>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+    </androidx.cardview.widget.CardView>

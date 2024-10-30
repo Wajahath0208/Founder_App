@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">Founder App</string>
+    <string name="elon_musk">Elon musk</string>
+    <string name="elon_musk_desc" translatable="false">Tesla is one of the world\'s most valuable
+        in terms of market capitalization. In October 2021, Tesla temporarily became a trillion-dollar
+        company, the seventh U.S. company to do so. In 2023, the company led the battery electric vehicle
+        market, with 19.9% share. Also in 2023, the company was ranked 69th in the Forbes Global 2000.
+        As of March 2024, it is the world\'s most valuable automaker. Tesla has been the subject of
+        lawsuits, government scrutiny, and journalistic criticism, stemming from allegations of multiple
+        cases of whistleblower retaliation, worker rights violations such as sexual harassment and
+        anti-union activities, safety defects leading to dozens of recalls, the lack of a public
+        relations department, and controversial statements from Musk including overpromising
+        on the company\'s driving assist technology and product release timelines.</string>
+    <string name="elon_musk_company">Tesla</string>
+    <string name="bill_gates">Bill Gates</string>
+    <string name="bill_gates_desc">Microsoft was founded by Bill Gates and Paul Allen on April 4, 1975,
+        to develop and sell BASIC interpreters for the Altair 8800. It rose to dominate the personal
+        computer operating system market with MS-DOS in the mid-1980s, followed by Windows.
+        The company\'s 1986 initial public offering (IPO) and subsequent rise in its share price created
+        three billionaires and an estimated 12,000 millionaires among Microsoft employees. Since the 1990s,
+        it has increasingly diversified from the operating system market and has made several corporate
+        acquisitions, the largest being the acquisition of Activision Blizzard for $68.7 billion in October
+        2023, followed by its acquisition of LinkedIn for $26.2 billion in December 2016,Nuance Communications
+        for $16 billion in March 2022, and Skype Technologies for $8.5 billion in May 2011.</string>
+    <string name="bill_gates_company">Microsoft</string>
+    <string name="zomato">Zomato</string>
+    <string name="zomato_founder">Deepinder Goyal</string>
+    <string name="zomato_desc">Zomato is an Indian multinational restaurant aggregator and food delivery
+        company. It was founded by Deepinder Goyal and Pankaj Chaddah in 2008.Zomato provides information,
+        menus and user-reviews of restaurants as well as food delivery options from partner restaurants
+        in more than 1,000 Indian cities and towns, as of 2022–23.Zomato rivals Swiggy in food delivery
+        and hyperlocal space.Zomato has earned a Guinness world record for holding the world\'s largest first aid lesson,
+        by training 4,300 delivery partners in total, at the single event on June 12th.</string>
+    <string name="swiggy">Swiggy</string>
+    <string name="swiggy_founder">Sriharsha Majety </string>
+    <string name="swiggy_desc">Swiggy is an Indian online food ordering and delivery company. Founded in
+        2014, Swiggy is headquartered in Bangalore and operates in more than 580 Indian cities,
+        as of July 2023. Besides food delivery, the platform also provides quick commerce services
+        under the name Swiggy Instamart, and same-day package deliveries with Swiggy Genie.
+        It rivals homegrown startup Zomato in food delivery and hyperlocal marketplace.</string>
+    <string name="infosys">Infosys</string>
+    <string name="infosys_founder">N.R.Narayana Murthy</string>
+    <string name="infosys_desc">Infosys Limited is an Indian multinational technology company that 
+        offers business consulting, information technology, and outsourcing services. Founded in Pune,
+        the company is headquartered in Bangalore.On 24 August 2021, Infosys became the fourth 
+        Indian company to achieve a market capitalization of US$100 billion. It is recognized as one 
+        of the leading Big Tech (India) companies.As of 31 March 2024, Infosys is the second-largest
+        Indian IT company by revenue and the third-largest Indian company by market capitalization.</string>
+    <string name="facebook">Facebook</string>
+    <string name="facebook_founder">Mark Elliot Zuckerberg</string>
+    <string name="facebook_description">Facebook is a social media and social networking service owned by
+        American technology conglomerate Meta. Created in 2004 by Mark Zuckerberg with four other Harvard
+        College students and roommates Eduardo Saverin, Andrew McCollum, Dustin Moskovitz, and Chris
+        Hughes, its name derives from the face book directories often given to American university
+        students. Membership was initially limited to Harvard students, gradually expanding to other North
+        American universities. Since 2006, Facebook allows everyone to register from 13 years old, except
+        in the case of a handful of nations, where the age limit is 14 years.[6] As of December 2022,
+        Facebook claimed almost 3 billion monthly active users.[7] As of October 2023, Facebook ranked
+        as the third-most-visited website in the world, with 22.56% of its traffic coming from the
+        United States.[8][9] It was the most downloaded mobile app of the 2010s.Facebook can be accessed
+        from devices with Internet connectivity, such as personal computers, tablets and smartphones.
+        After registering, users can create a profile revealing personal information about themselves.
+        They can post text, photos and multimedia which are shared with any other users who have agreed
+        to be their friend or, with different privacy settings, publicly. Users can also communicate
+        directly with each other with Messenger, join common-interest groups, and receive notifications
+        on the activities of their Facebook friends and the pages they follow.</string>
+    <string name="tcs">TCS</string>
+    <string name="tcs_founder">Faqir Chand Kohli</string>
+    <string name="tcs_description">Tata Consultancy Services (TCS) is an Indian multinational technology
+        company specializing in information technology services and consulting. Headquartered in Mumbai,
+        it is a part of the Tata Group and operates in 150 locations across 46 countries. It is the
+        second-largest Indian company by market capitalization.As of 2024, TCS is ranked seventh on the
+        Fortune India 500 list.In September 2021, TCS recorded a market capitalization of US$200
+        billion, making it the first Indian IT company to achieve this valuation. In 2012,
+        it was the world\'s second-largest user of U.S. H-1B visas.In 2024, parent company Tata Sons
+        owned 71.74% of TCS, and close to 80% of Tata Sons dividend income came from TCS.</string>
+    <string name="wipro">Wipro</string>
+    <string name="wipro_founder">Azim Hashim Premji </string>
+    <string name="wipro_description">Wipro limited is an Indian multinational technology company
+        that provides information technology, consulting and business process services.
+        It is one of the six leading Indian Big Tech companies. Wipro\'s capabilities range across
+        cloud computing, computer security, digital transformation, artificial intelligence, robotics,
+        data analytics, and other technologies, servicing customers in 167 countries.</string>
+
+
+</resources>
